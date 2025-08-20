@@ -1,6 +1,9 @@
 # 👨‍💻 Sigint007adm | Técnico IT Freelance
 
-[![Twitter](https://img.shields.io/badge/Twitter-@sigint007adm-1DA1F2?logo=twitter&style=flat)](https://twitter.com/sigint007adm)
+[![Twitter](https://img.shields.io/badge/Twitter-@sigint007adm-1DA1F2?logo=twitter&style=flat)](https://twitter.com/sigint007adm)  
+![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu-blue?logo=linux)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?logo=powershell)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Hardware-lightgreen?logo=raspberry-pi)
 
 ¡Hola! Soy **Sigint**, técnico informático especializado en soporte remoto, automatización y seguridad digital. Ayudo a usuarios y pequeñas empresas a resolver problemas técnicos con soluciones prácticas y eficientes.
 
