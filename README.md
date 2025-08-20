@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Sigint007adm | Técnico IT Freelance
 
-<!--
-**sigint007adm/sigint007adm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Sigint, técnico informático especializado en soporte remoto, automatización y seguridad digital. Ayudo a usuarios y pequeñas empresas a resolver problemas técnicos con soluciones prácticas y eficientes.
 
-Here are some ideas to get you started:
+## 🧰 Servicios que ofrezco
+- Soporte remoto para Windows, Linux y Android
+- Configuración segura de redes domésticas y empresariales
+- Auditoría básica de seguridad digital
+- Automatización con scripts personalizados
+- Asesoría en hardware ligero: Raspberry Pi, NUC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- 🔐 [Secure Home Network](https://github.com/sigint007adm/secure-home-network)  
+  Guía para proteger tu red doméstica con Pi-hole, VPN y firewall.
+
+- 🛠️ [Remote Support Tools](https://github.com/sigint007adm/remote-support-tools)  
+  Scripts y configuraciones para asistencia técnica remota.
+
+- 🧠 [Linux Hardening Basics](https://github.com/sigint007adm/linux-hardening-basics)  
+  Buenas prácticas para asegurar sistemas Linux.
+
+## 🌐 Web
+*(en desarrollo)*
+
+## 📫 Contacto
+📧 sigint007adm@proton.me  
+📍 Madrid, España
+
+---
+
+🧠 Siempre estoy trabajando en nuevas soluciones. Si tienes una idea, problema técnico o quieres colaborar, ¡hablemos!
