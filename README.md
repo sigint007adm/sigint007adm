@@ -1,5 +1,7 @@
 # 👨‍💻 Sigint007adm | Técnico IT Freelance
 
+[![Twitter](https://img.shields.io/badge/Twitter-@sigint007adm-1DA1F2?logo=twitter&style=flat)](https://twitter.com/sigint007adm)
+
 ¡Hola! Soy **Sigint**, técnico informático especializado en soporte remoto, automatización y seguridad digital. Ayudo a usuarios y pequeñas empresas a resolver problemas técnicos con soluciones prácticas y eficientes.
 
 ---
@@ -45,9 +47,10 @@ He trabajado en diferentes entornos ofreciendo soporte técnico crítico, y he d
 ## 📫 Contacto
 
 📧 sigint007adm@proton.me  
+🐦 Twitter: [@sigint007adm](https://twitter.com/sigint007adm)  
 📍 Madrid, España  
-🕒 Lunes a viernes 
-🤝 Abierto a colaboraciones freelance y asesorías técnicas
+🕒 Lunes a viernes  
+🤝 Abierto a colaboraciones freelance y asesorías técnicas  
 
 ---
 
