@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # 👨‍💻 Sigint007adm | Técnico IT Freelance
 
 [![Twitter](https://img.shields.io/badge/Twitter-@sigint007adm-1DA1F2?logo=twitter&style=flat)](https://twitter.com/sigint007adm)
