@@ -24,7 +24,7 @@ Me apasiona el software libre, la documentación clara y las soluciones simples 
 - 🖥️ **Sistemas operativos**: Windows, Linux (Debian, Ubuntu, Kali)  
 - 🔐 **Seguridad**: UFW, Fail2ban, Pi-hole, WireGuard  
 - 🧪 **Hardware ligero**: Raspberry Pi, Intel NUC  
-- 🛠️ **Automatización**: Bash, PowerShell, cron  
+- 🛠️ **Automatización**: Bash, PowerShell, cron, Python 
 - 📡 **Soporte remoto**: RustDesk, AnyDesk, SSH  
 
 ---
