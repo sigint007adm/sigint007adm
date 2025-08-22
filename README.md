@@ -1,61 +1,73 @@
 ![Banner](assets/banner.png)
 
-# 👨‍💻 Sigint007adm | Técnico IT Freelance
-
 [![Twitter](https://img.shields.io/badge/Twitter-@sigint007adm-1DA1F2?logo=twitter&style=flat)](https://twitter.com/sigint007adm)
 ![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu-blue?logo=linux)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?logo=powershell)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Hardware-lightgreen?logo=raspberry-pi)
 
-¡Hola! Soy **Sigint**, técnico informático especializado en soporte remoto, automatización y seguridad digital. Ayudo a usuarios y pequeñas empresas a resolver problemas técnicos con soluciones prácticas y eficientes.
+# 🕵️ sigint007adm  
+
+**Ciberseguridad | Optimización de PCs | Personalización IT**  
+
+Bienvenido a mi laboratorio digital.  
+Soy un técnico IT con 5 años de experiencia en entornos críticos (hospitales), apasionado por tres áreas que combinadas ofrecen una propuesta única:  
+
+- 🔐 **Ciberseguridad** → Hardening, privacidad, detección de amenazas.  
+- ⚡ **Optimización y Rendimiento** → PCs más rápidos, estables y listos para gaming o trabajo intensivo.  
+- 🎨 **Personalización & Trucos IT** → Ajustes finos y hacks para llevar tu sistema al siguiente nivel.  
+
+Mi objetivo: **que cualquier usuario o pequeño negocio pueda tener un equipo más seguro, veloz y adaptado a sus necesidades**.  
 
 ---
 
-## 🧭 Sobre mí
+## 📂 Repositorios Principales  
 
-Soy técnico freelance con base en Madrid. Me especializo en **soporte remoto**, **automatización de tareas** y **seguridad digital básica**.  
-Trabajo con herramientas como Bash, PowerShell, Pi-hole, WireGuard y Raspberry Pi.  
-Me apasiona el software libre, la documentación clara y las soluciones simples que funcionan.
+🔐 **[Ciberseguridad](https://github.com/sigint007adm/sigint007adm-cybersec)**  
+Scripts y módulos de hardening, privacidad y herramientas prácticas para usuarios y negocios.  
+Ejemplos: Windows/Linux hardening, reglas de firewall, detección de procesos sospechosos.  
 
----
+⚡ **[Optimización & Personalización](https://github.com/sigint007adm/sigint007adm-optimize)**  
+Tweaks de Windows 10/11, Linux y mods visuales.  
+Ejemplos: optimización de arranque, gaming mode, debloat, temas personalizados.  
 
-## 🛠️ Herramientas y tecnologías
-
-- 🖥️ **Sistemas operativos**: Windows, Linux (Debian, Ubuntu, Kali)  
-- 🔐 **Seguridad**: UFW, Fail2ban, Pi-hole, WireGuard  
-- 🧪 **Hardware ligero**: Raspberry Pi, Intel NUC  
-- 🛠️ **Automatización**: Bash, PowerShell, cron, Python 
-- 📡 **Soporte remoto**: RustDesk, AnyDesk, SSH  
+💡 **[Trucos & Consejos IT](https://github.com/sigint007adm/sigint007adm-tips)**  
+Guías rápidas y útiles para usuarios y técnicos.  
+Ejemplos: backups simples, productividad en Windows/Linux, navegación segura.  
 
 ---
 
-## 📚 Experiencia y proyectos
+## 🛠️ Tech Stack  
 
-He trabajado en diferentes entornos ofreciendo soporte técnico crítico, y he desarrollado soluciones personalizadas para automatizar tareas repetitivas.
-
-### 🔗 Repositorios destacados
-
-- 🔐 [Secure Home Network](https://github.com/sigint007adm/secure-home-network)  
-- 🛠️ [Remote Support Tools](https://github.com/sigint007adm/remote-support-tools)  
-- 🧠 [Linux Hardening Basics](https://github.com/sigint007adm/linux-hardening-basics)  
-- 🍓 [Raspberry Pi Projects](https://github.com/sigint007adm/raspberry-pi-projects)  
-- 🧠 [Sigint Blog](https://github.com/sigint007adm/sigint-blog)
+`Windows` · `Linux` · `Networking` · `Cybersecurity` · `Hardening` · `Optimization` · `Automation` · `Scripting`  
 
 ---
 
-## 📄 Recursos
- 
-- 🖼️ Imagen de portada: [`assets/banner.png`](assets/banner.png)
+## 📬 Contacto  
+
+- 🐦 Twitter/X → [@sigint007adm](https://twitter.com/sigint007adm)  
+- 💼 GitHub → [sigint007adm](https://github.com/sigint007adm)  
+- 📧 Email → *sigint007adm@proton.me*  
 
 ---
 
-## 📫 Contacto
+## ⚡ Filosofía  
 
-📧 sigint007adm@proton.me  
-🐦 Twitter: [@sigint007adm](https://twitter.com/sigint007adm)  
-📍 Madrid, España  
-🕒 Lunes a viernes  
-🤝 Abierto a colaboraciones freelance y asesorías técnicas  
+> **Máximo rendimiento, mínima superficie de ataque.**  
+> Tu PC no solo debe ser rápido y bonito, también debe estar blindado.  
+
+---
+
+## 🚀 Próximos pasos  
+
+✔ Subida de herramientas de hardening para Windows/Linux.  
+✔ Scripts de optimización de arranque en Windows 10/11.  
+✔ Guías rápidas de ciberseguridad y productividad para usuarios finales.  
+
+---
+
+⭐ **Si algún proyecto te resulta útil, considera darme una estrella.**  
+Esto me ayuda a seguir creando herramientas gratuitas para la comunidad.  
+
 
 ---
 
