@@ -10,7 +10,7 @@
 **Ciberseguridad | Optimización de PCs | Personalización IT**  
 
 Bienvenido a mi laboratorio digital.  
-Soy un técnico IT con 5 años de experiencia en entornos críticos (hospitales), apasionado por tres áreas que combinadas ofrecen una propuesta única:  
+Soy un técnico IT con 5 años de experiencia en entornos críticos, apasionado por tres áreas que combinadas ofrecen una propuesta única:  
 
 - 🔐 **Ciberseguridad** → Hardening, privacidad, detección de amenazas.  
 - ⚡ **Optimización y Rendimiento** → PCs más rápidos, estables y listos para gaming o trabajo intensivo.  
